@@ -1,0 +1,27 @@
+.countContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+
+}
+
+.countValue {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #000;
+    margin: auto;
+}
+
+.countButton {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5%;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
